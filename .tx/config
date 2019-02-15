@@ -1,0 +1,340 @@
+[main]
+host = https://www.transifex.com
+
+[safetag.appendix-md]
+file_filter = <lang>/README.md
+minimum_perc = 0
+source_file = en/appendix.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.activities-md]
+file_filter = translations/safetag.activities-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.advanced-threat-guide-md]
+file_filter = translations/safetag.advanced-threat-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.advanced-threat-overview-md]
+file_filter = translations/safetag.advanced-threat-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.agency-building-md]
+file_filter = translations/safetag.agency-building-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.approaches-md]
+file_filter = translations/safetag.approaches-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.audit-lifecycle-md]
+file_filter = translations/safetag.audit-lifecycle-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.capacity-assessment-guide-md]
+file_filter = translations/safetag.capacity-assessment-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.capacity-assessment-overview-md]
+file_filter = translations/safetag.capacity-assessment-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.code-of-conduct-md]
+file_filter = translations/safetag.code-of-conduct-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.context-research-guide-md]
+file_filter = translations/safetag.context-research-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.context-research-overview-md]
+file_filter = translations/safetag.context-research-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.contributing-md]
+file_filter = translations/safetag.contributing-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.data-assessment-guide-md]
+file_filter = translations/safetag.data-assessment-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.data-assessment-overview-md]
+file_filter = translations/safetag.data-assessment-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.debrief-guide-md]
+file_filter = translations/safetag.debrief-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.debrief-overview-md]
+file_filter = translations/safetag.debrief-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.disclaimer-md]
+file_filter = translations/safetag.disclaimer-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.follow-up-guide-md]
+file_filter = translations/safetag.follow-up-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.follow-up-overview-md]
+file_filter = translations/safetag.follow-up-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.glossary-md]
+file_filter = translations/safetag.glossary-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.guiding-questions-md]
+file_filter = translations/safetag.guiding-questions-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.how-to-read-this-guide-guide-md]
+file_filter = translations/safetag.how-to-read-this-guide-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.how-to-read-this-guide-handbook-md]
+file_filter = translations/safetag.how-to-read-this-guide-handbook-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.how-to-read-this-guide-overview-md]
+file_filter = translations/safetag.how-to-read-this-guide-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.index-md]
+file_filter = translations/safetag.index-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.introduction-md]
+file_filter = translations/safetag.introduction-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.license-md]
+file_filter = translations/safetag.license-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.network-access-guide-md]
+file_filter = translations/safetag.network-access-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.network-access-overview-md]
+file_filter = translations/safetag.network-access-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.network-mapping-guide-md]
+file_filter = translations/safetag.network-mapping-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.network-mapping-overview-md]
+file_filter = translations/safetag.network-mapping-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.operational-security-guide-md]
+file_filter = translations/safetag.operational-security-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.operational-security-md]
+file_filter = translations/safetag.operational-security-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.operational-security-overview-md]
+file_filter = translations/safetag.operational-security-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.organizational-device-assessment-guide-md]
+file_filter = translations/safetag.organizational-device-assessment-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.organizational-device-assessment-overview-md]
+file_filter = translations/safetag.organizational-device-assessment-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.output-md]
+file_filter = translations/safetag.output-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.overview-adids-md]
+file_filter = translations/safetag.overview-adids-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.preparation-guide-md]
+file_filter = translations/safetag.preparation-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.preparation-md]
+file_filter = translations/safetag.preparation-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.preparation-overview-md]
+file_filter = translations/safetag.preparation-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.purpose-md]
+file_filter = translations/safetag.purpose-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.quote-md]
+file_filter = translations/safetag.quote-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.recommendation-development-guide-md]
+file_filter = translations/safetag.recommendation-development-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.recommendation-development-overview-md]
+file_filter = translations/safetag.recommendation-development-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.reconnaissance-guide-md]
+file_filter = translations/safetag.reconnaissance-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.reconnaissance-overview-md]
+file_filter = translations/safetag.reconnaissance-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.report-creation-guide-md]
+file_filter = translations/safetag.report-creation-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.report-creation-overview-md]
+file_filter = translations/safetag.report-creation-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.responsive-support-guide-md]
+file_filter = translations/safetag.responsive-support-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.responsive-support-overview-md]
+file_filter = translations/safetag.responsive-support-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.risk-assessment-md]
+file_filter = translations/safetag.risk-assessment-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.risk-modeling-guide-md]
+file_filter = translations/safetag.risk-modeling-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.risk-modeling-overview-md]
+file_filter = translations/safetag.risk-modeling-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.roadmap-development-guide-md]
+file_filter = translations/safetag.roadmap-development-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.roadmap-development-overview-md]
+file_filter = translations/safetag.roadmap-development-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.safetag-core-intro-md]
+file_filter = translations/safetag.safetag-core-intro-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.safetag-overview-image-text]
+file_filter = translations/safetag.safetag-overview-image-text/<lang>.txt
+source_lang = en
+type = TXT
+
+[safetag.threat-assessment-guide-md]
+file_filter = translations/safetag.threat-assessment-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.threat-assessment-overview-md]
+file_filter = translations/safetag.threat-assessment-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.user-device-assessment-guide-md]
+file_filter = translations/safetag.user-device-assessment-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.user-device-assessment-overview-md]
+file_filter = translations/safetag.user-device-assessment-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.vulnerability-prioritization-guide-md]
+file_filter = translations/safetag.vulnerability-prioritization-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.vulnerability-prioritization-overview-md]
+file_filter = translations/safetag.vulnerability-prioritization-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.vulnerability-scanning-guide-md]
+file_filter = translations/safetag.vulnerability-scanning-guide-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[safetag.vulnerability-scanning-overview-md]
+file_filter = translations/safetag.vulnerability-scanning-overview-md/<lang>.md
+source_lang = en
+type = GITHUBMARKDOWN
+
